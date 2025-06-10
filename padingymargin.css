@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+}
+.caja {
+    margin: 8px;
+    padding: 10px;
+    border-style: solid;
+    border-style: solid outset solid;
+    border-width: 5px;
+    border-color: blue;
+    border-left: 6px solid white;
+    background-color: chartreuse;
+}
